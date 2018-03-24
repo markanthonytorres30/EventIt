@@ -5,12 +5,5 @@
 
 export const environment = {
   production: false,
-  firebase:{
-    apiKey: "AIzaSyAN31uiX6KLZn469yiyRJVlkbQ_u81ZbFY",
-    authDomain: "eventit-78deb.firebaseapp.com",
-    databaseURL: "https://eventit-78deb.firebaseio.com",
-    projectId: "eventit-78deb",
-    storageBucket: "eventit-78deb.appspot.com",
-    messagingSenderId: "665051594226"
-  }
+  
 };
